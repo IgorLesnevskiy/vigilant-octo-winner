@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vigilant-octo-winner/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/vigilant-octo-winner/static/js/main.bc86df96.chunk.js",
+    "main.js.map": "/vigilant-octo-winner/static/js/main.bc86df96.chunk.js.map",
+    "runtime-main.js": "/vigilant-octo-winner/static/js/runtime-main.59a64e64.js",
+    "runtime-main.js.map": "/vigilant-octo-winner/static/js/runtime-main.59a64e64.js.map",
+    "static/js/2.54d8425b.chunk.js": "/vigilant-octo-winner/static/js/2.54d8425b.chunk.js",
+    "static/js/2.54d8425b.chunk.js.map": "/vigilant-octo-winner/static/js/2.54d8425b.chunk.js.map",
+    "static/js/3.adf3ac41.chunk.js": "/vigilant-octo-winner/static/js/3.adf3ac41.chunk.js",
+    "static/js/3.adf3ac41.chunk.js.map": "/vigilant-octo-winner/static/js/3.adf3ac41.chunk.js.map",
+    "index.html": "/vigilant-octo-winner/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/vigilant-octo-winner/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.54d8425b.chunk.js.LICENSE.txt": "/vigilant-octo-winner/static/js/2.54d8425b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vigilant-octo-winner/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59a64e64.js",
+    "static/js/2.54d8425b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.bc86df96.chunk.js"
+  ]
+}
