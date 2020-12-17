@@ -1,3 +1,5 @@
+import normalizeUrl from "normalize-url";
+
 export default class APIBuilder {
     static generateSearchParamsString(params = {}) {
         return encodeURI(String(new URLSearchParams(params)));
@@ -20,7 +22,7 @@ export default class APIBuilder {
     }
 
     _buildAbsoluteUrl(relativeUrl = "", searchParams = {}) {
-        const url = new URL(relativeUrl, this._base);
+        const url = new URL(normalizeUrl(`${this._base}${relativeUrl}`));
 
         if (this.constructor.isObject(searchParams) && Object.keys(searchParams).length) {
             url.search = this.constructor.generateSearchParamsString(searchParams);
