@@ -1,0 +1,416 @@
+{
+    "e719881b7726805a7d8ca9c7a1dc682b": {
+        "id": "e719881b7726805a7d8ca9c7a1dc682b",
+        "type": "city",
+        "attributes": {
+            "name": "Артёмовск",
+            "population": 1688
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "2ebaf0a44b085bd35acf7e9e20cb781a": {
+        "id": "2ebaf0a44b085bd35acf7e9e20cb781a",
+        "type": "city",
+        "attributes": {
+            "name": "Ачинск",
+            "population": 105259
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "8cd82b108ec33a598dece02651cd847d": {
+        "id": "8cd82b108ec33a598dece02651cd847d",
+        "type": "city",
+        "attributes": {
+            "name": "Боготол",
+            "population": 19819
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "fc945752ffa586a86b6e9fef0018eb3b": {
+        "id": "fc945752ffa586a86b6e9fef0018eb3b",
+        "type": "city",
+        "attributes": {
+            "name": "Бородино",
+            "population": 16061
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "2e58f9994e7b9d4ee5876602f9d3930a": {
+        "id": "2e58f9994e7b9d4ee5876602f9d3930a",
+        "type": "city",
+        "attributes": {
+            "name": "Дивногорск",
+            "population": 29195
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "1c0f171c44b0f17ce23970f85b09cb9f": {
+        "id": "1c0f171c44b0f17ce23970f85b09cb9f",
+        "type": "city",
+        "attributes": {
+            "name": "Дудинка",
+            "population": 21015
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "81b7313ed1c54a14202fd946c6b777ac": {
+        "id": "81b7313ed1c54a14202fd946c6b777ac",
+        "type": "city",
+        "attributes": {
+            "name": "Енисейск",
+            "population": 17805
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "b89413b30f294c83888966b83a731391": {
+        "id": "b89413b30f294c83888966b83a731391",
+        "type": "city",
+        "attributes": {
+            "name": "Железногорск",
+            "population": 83857
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "5185d7aa760434a89ed72170efc0e4cd": {
+        "id": "5185d7aa760434a89ed72170efc0e4cd",
+        "type": "city",
+        "attributes": {
+            "name": "Заозёрный",
+            "population": 10286
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "a26a3bc280e8b43d8d4582bf6ca61b39": {
+        "id": "a26a3bc280e8b43d8d4582bf6ca61b39",
+        "type": "city",
+        "attributes": {
+            "name": "Зеленогорск",
+            "population": 61915
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "1365a5e7543fcd1d6dbbdb0e20e47288": {
+        "id": "1365a5e7543fcd1d6dbbdb0e20e47288",
+        "type": "city",
+        "attributes": {
+            "name": "Игарка",
+            "population": 4417
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "3ef812d3015197b33f2f60d9c7674151": {
+        "id": "3ef812d3015197b33f2f60d9c7674151",
+        "type": "city",
+        "attributes": {
+            "name": "Иланский",
+            "population": 14967
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "9b7c02f0366d16495edcc8ba623c4194": {
+        "id": "9b7c02f0366d16495edcc8ba623c4194",
+        "type": "city",
+        "attributes": {
+            "name": "Канск",
+            "population": 89111
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "a7f8d0d4a4a0905a217c0d2173cccfb6": {
+        "id": "a7f8d0d4a4a0905a217c0d2173cccfb6",
+        "type": "city",
+        "attributes": {
+            "name": "Кодинск",
+            "population": 15911
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "92b53c20f41af13c8a8166dca1ead881": {
+        "id": "92b53c20f41af13c8a8166dca1ead881",
+        "type": "city",
+        "attributes": {
+            "name": "Красноярск",
+            "population": 1095286
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "d1c602e529598a9f10996377b02ee983": {
+        "id": "d1c602e529598a9f10996377b02ee983",
+        "type": "city",
+        "attributes": {
+            "name": "Лесосибирск",
+            "population": 59525
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "ef828d45b90efb82e0915f2e74a6046f": {
+        "id": "ef828d45b90efb82e0915f2e74a6046f",
+        "type": "city",
+        "attributes": {
+            "name": "Минусинск",
+            "population": 68007
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "dd3a5e6fcd12aa16137422b00f9f3014": {
+        "id": "dd3a5e6fcd12aa16137422b00f9f3014",
+        "type": "city",
+        "attributes": {
+            "name": "Назарово",
+            "population": 49825
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "6c45f5bda58569d7faeb218655be9d9e": {
+        "id": "6c45f5bda58569d7faeb218655be9d9e",
+        "type": "city",
+        "attributes": {
+            "name": "Норильск",
+            "population": 179554
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "e6f9a19a8f041c2c623ca71134948661": {
+        "id": "e6f9a19a8f041c2c623ca71134948661",
+        "type": "city",
+        "attributes": {
+            "name": "Сосновоборск",
+            "population": 40614
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "409d2257be04701603becbfa15cda39d": {
+        "id": "409d2257be04701603becbfa15cda39d",
+        "type": "city",
+        "attributes": {
+            "name": "Ужур",
+            "population": 15563
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "994f0ae5b0287330a7eb62bf371f39fb": {
+        "id": "994f0ae5b0287330a7eb62bf371f39fb",
+        "type": "city",
+        "attributes": {
+            "name": "Уяр",
+            "population": 11981
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    },
+    "74409639d587bf334cae572ee1340e6f": {
+        "id": "74409639d587bf334cae572ee1340e6f",
+        "type": "city",
+        "attributes": {
+            "name": "Шарыпово",
+            "population": 37136
+        },
+        "touched": {
+            "created": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            },
+            "modified": {
+                "time": "1608184816596",
+                "userId": "acbd18db4cc2f85cedef654fccc4a4d8"
+            }
+        }
+    }
+}

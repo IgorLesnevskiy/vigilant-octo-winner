@@ -1,0 +1,25 @@
+{
+    "acbd18db4cc2f85cedef654fccc4a4d8": {
+        "id": "acbd18db4cc2f85cedef654fccc4a4d8",
+        "type": "user",
+        "attributes": {
+            "active": true,
+            "name": "Foo Bar",
+            "status": "Foo Status",
+            "avatar": "",
+            "email": "",
+            "city_id": "",
+            "agreements": {
+                "personal": true
+            },
+            "touched": {
+                "created": {
+                    "time": "1608184816596"
+                },
+                "modified": {
+                    "time": "1608184876596"
+                }
+            }
+        }
+    }
+}
