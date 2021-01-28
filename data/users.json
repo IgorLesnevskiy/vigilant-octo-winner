@@ -1,14 +1,14 @@
-{
-    "acbd18db4cc2f85cedef654fccc4a4d8": {
-        "id": "acbd18db4cc2f85cedef654fccc4a4d8",
+[
+    {
+        "id": "mockUserId",
         "type": "user",
         "attributes": {
             "active": true,
             "name": "Foo Bar",
-            "status": "Foo Status",
+            "status": "Foo Bar",
             "avatar": "",
-            "email": "",
-            "city_id": "",
+            "email": "foo@bar.com",
+            "city_id": "fc945752ffa586a86b6e9fef0018eb3b",
             "agreements": {
                 "personal": true
             },
@@ -22,4 +22,4 @@
             }
         }
     }
-}
+]

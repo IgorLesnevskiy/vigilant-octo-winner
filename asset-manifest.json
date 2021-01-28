@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/css/main.afd7172b.chunk.css",
-    "main.js": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/main.d2332bfe.chunk.js",
-    "main.js.map": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/main.d2332bfe.chunk.js.map",
+    "main.css": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/css/main.8489e089.chunk.css",
+    "main.js": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/main.3e40db00.chunk.js",
+    "main.js.map": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/main.3e40db00.chunk.js.map",
     "runtime-main.js": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/runtime-main.8f247fc6.js",
     "runtime-main.js.map": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/runtime-main.8f247fc6.js.map",
-    "static/js/2.573c7344.chunk.js": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/2.573c7344.chunk.js",
-    "static/js/2.573c7344.chunk.js.map": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/2.573c7344.chunk.js.map",
+    "static/js/2.350532de.chunk.js": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/2.350532de.chunk.js",
+    "static/js/2.350532de.chunk.js.map": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/2.350532de.chunk.js.map",
     "index.html": "https://igorlesnevskiy.github.io/vigilant-octo-winner/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.573c7344.chunk.js.LICENSE.txt": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/2.573c7344.chunk.js.LICENSE.txt"
+    "static/css/main.8489e089.chunk.css.map": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/css/main.8489e089.chunk.css.map",
+    "static/js/2.350532de.chunk.js.LICENSE.txt": "https://igorlesnevskiy.github.io/vigilant-octo-winner/static/js/2.350532de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f247fc6.js",
-    "static/js/2.573c7344.chunk.js",
-    "static/css/main.afd7172b.chunk.css",
-    "static/js/main.d2332bfe.chunk.js"
+    "static/js/2.350532de.chunk.js",
+    "static/css/main.8489e089.chunk.css",
+    "static/js/main.3e40db00.chunk.js"
   ]
 }
