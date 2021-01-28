@@ -1,0 +1,47 @@
+@import "../../../resources/styles/base";
+
+.text-input {
+    --text-input--border-color: var(--color-gray2);
+    --text-input--palceholder-color: var(--color-gray2);
+    --text-input--error-color: var(--error-color);
+
+    &.is-error {
+        --text-input--border-color: var(--error-color);
+    }
+
+    position: relative;
+
+    &__input {
+        width: 100%;
+        height: 3.2rem;
+        margin: 0;
+        padding: 0 1.2rem;
+        border: 1px solid var(--text-input--border-color);
+
+        font-size: 1.6rem;
+        line-height: 1.18;
+
+        &:focus {
+            border-radius: 0;
+        }
+
+        @include placeholder() {
+            color: var(--text-input--palceholder-color);
+            opacity: .5;
+        };
+    }
+
+    &__errors-list {
+        position: absolute;
+        top: calc(100% + .4rem);
+
+        list-style-type: none;
+    }
+
+    &__error {
+        font-size: 1.2rem;
+        line-height: 1.3;
+
+        color: var(--text-input--error-color);
+    }
+}

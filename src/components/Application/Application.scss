@@ -1,0 +1,96 @@
+@import-normalize;
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap');
+
+:root {
+    --primary-color: #71C838;
+    --primary-color--darken: #58AF1F;
+    --primary-color--ligthen: #8BE252;
+
+    --primary-text-color: #000;
+
+    --secondary-color: #037BB8;
+    --secondary-color--darken: #00629F;
+    --secondary-color--lighten: #1D95D2;
+
+    --color-gray1: #e4e4e4;
+    --color-gray2: #999999;
+    --color-gray3: #666666;
+    --color-gray4: #eaeaea;
+    --color-gray5: #404040;
+
+    --error-color: #FF0000;
+
+    --selection-color: #fff;
+    --selection-background-color: #000;
+
+    --base-font-family: "Arimo", sans-serif;
+    --base-font-size: 1.4rem;
+    --base-line-height: 1.66;
+
+    --animation-speed: 0.2s;
+
+    --site-max-width: 99rem;
+    --site-min-width: 32rem;
+
+    --gutters: 1rem;
+
+    font-size: 10 / 16 * 100%;
+}
+
+
+::selection {
+    color: var(--selection-color);
+    background-color: var(--selection-background-color);
+}
+
+html {
+    box-sizing: border-box;
+    -ms-overflow-style: scrollbar;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: var(--base-font-family);
+    color: var(--primary-text-color);
+    font-size: var(--base-font-size);
+    line-height: var(--base-line-height);
+}
+
+html,
+body {
+    height: 100%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+
+    list-style-position: inside;
+}
+
+a.link {
+    color: var(--secondary-color--darken);
+}
+
+a.link--action {
+    text-decoration-style: dashed;
+}
+
+textarea.textarea {
+    padding: 0;
+
+    font-family: var(--base-font-family);
+    font-size: var(--base-font-size);
+    line-height: var(--base-line-height);
+}

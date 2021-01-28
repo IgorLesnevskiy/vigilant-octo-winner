@@ -1,0 +1,60 @@
+@import "../../resources/styles/base";
+
+.floor {
+    --offset-small: 1rem;
+    --offset-medium: 2rem;
+    --offset-large: 3rem;
+
+    @include breakpoint(desktop) {
+        --offset-small: 1.5rem;
+        --offset-medium: 3rem;
+        --offset-large: 4rem;
+    }
+
+    padding: 0 var(--gutters);
+    background: #fff;
+
+    &__inner {
+        max-width: var(--site-max-width);
+        min-width: var(--site-min-width);
+        margin: auto;
+
+        padding: var(--offset-small) 0;
+    }
+
+    &[data-container-fluid="true"] &__inner {
+        max-width: unset;
+    }
+
+    &[data-offset-top="none"] &__inner {
+        padding-top: 0;
+    }
+
+    &[data-offset-bottom="none"] &__inner {
+        padding-bottom: 0;
+    }
+
+    &[data-offset-top="small"] &__inner {
+        padding-top: var(--offset-small);
+    }
+
+    &[data-offset-bottom="small"] &__inner {
+        padding-bottom: var(--offset-small);
+    }
+
+    &[data-offset-top="medium"] &__inner {
+        padding-top: var(--offset-medium);
+    }
+
+    &[data-offset-bottom="medium"] &__inner {
+        padding-bottom: var(--offset-medium);
+    }
+
+    &[data-offset-top="large"] &__inner {
+        padding-top: var(--offset-large);
+    }
+
+    &[data-offset-bottom="large"] &__inner {
+        padding-bottom: var(--offset-large);
+    }
+}

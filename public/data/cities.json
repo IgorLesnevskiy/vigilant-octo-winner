@@ -1,5 +1,5 @@
-{
-    "e719881b7726805a7d8ca9c7a1dc682b": {
+[
+    {
         "id": "e719881b7726805a7d8ca9c7a1dc682b",
         "type": "city",
         "attributes": {
@@ -17,7 +17,7 @@
             }
         }
     },
-    "2ebaf0a44b085bd35acf7e9e20cb781a": {
+    {
         "id": "2ebaf0a44b085bd35acf7e9e20cb781a",
         "type": "city",
         "attributes": {
@@ -35,7 +35,7 @@
             }
         }
     },
-    "8cd82b108ec33a598dece02651cd847d": {
+    {
         "id": "8cd82b108ec33a598dece02651cd847d",
         "type": "city",
         "attributes": {
@@ -53,7 +53,7 @@
             }
         }
     },
-    "fc945752ffa586a86b6e9fef0018eb3b": {
+    {
         "id": "fc945752ffa586a86b6e9fef0018eb3b",
         "type": "city",
         "attributes": {
@@ -71,7 +71,7 @@
             }
         }
     },
-    "2e58f9994e7b9d4ee5876602f9d3930a": {
+    {
         "id": "2e58f9994e7b9d4ee5876602f9d3930a",
         "type": "city",
         "attributes": {
@@ -89,7 +89,7 @@
             }
         }
     },
-    "1c0f171c44b0f17ce23970f85b09cb9f": {
+    {
         "id": "1c0f171c44b0f17ce23970f85b09cb9f",
         "type": "city",
         "attributes": {
@@ -107,7 +107,7 @@
             }
         }
     },
-    "81b7313ed1c54a14202fd946c6b777ac": {
+    {
         "id": "81b7313ed1c54a14202fd946c6b777ac",
         "type": "city",
         "attributes": {
@@ -125,7 +125,7 @@
             }
         }
     },
-    "b89413b30f294c83888966b83a731391": {
+    {
         "id": "b89413b30f294c83888966b83a731391",
         "type": "city",
         "attributes": {
@@ -143,7 +143,7 @@
             }
         }
     },
-    "5185d7aa760434a89ed72170efc0e4cd": {
+    {
         "id": "5185d7aa760434a89ed72170efc0e4cd",
         "type": "city",
         "attributes": {
@@ -161,7 +161,7 @@
             }
         }
     },
-    "a26a3bc280e8b43d8d4582bf6ca61b39": {
+    {
         "id": "a26a3bc280e8b43d8d4582bf6ca61b39",
         "type": "city",
         "attributes": {
@@ -179,7 +179,7 @@
             }
         }
     },
-    "1365a5e7543fcd1d6dbbdb0e20e47288": {
+    {
         "id": "1365a5e7543fcd1d6dbbdb0e20e47288",
         "type": "city",
         "attributes": {
@@ -197,7 +197,7 @@
             }
         }
     },
-    "3ef812d3015197b33f2f60d9c7674151": {
+    {
         "id": "3ef812d3015197b33f2f60d9c7674151",
         "type": "city",
         "attributes": {
@@ -215,7 +215,7 @@
             }
         }
     },
-    "9b7c02f0366d16495edcc8ba623c4194": {
+    {
         "id": "9b7c02f0366d16495edcc8ba623c4194",
         "type": "city",
         "attributes": {
@@ -233,7 +233,7 @@
             }
         }
     },
-    "a7f8d0d4a4a0905a217c0d2173cccfb6": {
+    {
         "id": "a7f8d0d4a4a0905a217c0d2173cccfb6",
         "type": "city",
         "attributes": {
@@ -251,7 +251,7 @@
             }
         }
     },
-    "92b53c20f41af13c8a8166dca1ead881": {
+    {
         "id": "92b53c20f41af13c8a8166dca1ead881",
         "type": "city",
         "attributes": {
@@ -269,7 +269,7 @@
             }
         }
     },
-    "d1c602e529598a9f10996377b02ee983": {
+    {
         "id": "d1c602e529598a9f10996377b02ee983",
         "type": "city",
         "attributes": {
@@ -287,7 +287,7 @@
             }
         }
     },
-    "ef828d45b90efb82e0915f2e74a6046f": {
+    {
         "id": "ef828d45b90efb82e0915f2e74a6046f",
         "type": "city",
         "attributes": {
@@ -305,7 +305,7 @@
             }
         }
     },
-    "dd3a5e6fcd12aa16137422b00f9f3014": {
+    {
         "id": "dd3a5e6fcd12aa16137422b00f9f3014",
         "type": "city",
         "attributes": {
@@ -323,7 +323,7 @@
             }
         }
     },
-    "6c45f5bda58569d7faeb218655be9d9e": {
+    {
         "id": "6c45f5bda58569d7faeb218655be9d9e",
         "type": "city",
         "attributes": {
@@ -341,7 +341,7 @@
             }
         }
     },
-    "e6f9a19a8f041c2c623ca71134948661": {
+    {
         "id": "e6f9a19a8f041c2c623ca71134948661",
         "type": "city",
         "attributes": {
@@ -359,7 +359,7 @@
             }
         }
     },
-    "409d2257be04701603becbfa15cda39d": {
+    {
         "id": "409d2257be04701603becbfa15cda39d",
         "type": "city",
         "attributes": {
@@ -377,7 +377,7 @@
             }
         }
     },
-    "994f0ae5b0287330a7eb62bf371f39fb": {
+    {
         "id": "994f0ae5b0287330a7eb62bf371f39fb",
         "type": "city",
         "attributes": {
@@ -395,7 +395,7 @@
             }
         }
     },
-    "74409639d587bf334cae572ee1340e6f": {
+    {
         "id": "74409639d587bf334cae572ee1340e6f",
         "type": "city",
         "attributes": {
@@ -413,4 +413,4 @@
             }
         }
     }
-}
+]

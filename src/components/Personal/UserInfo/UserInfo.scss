@@ -1,0 +1,100 @@
+@import "../../../resources/styles/base";
+
+.personal-user-info {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+
+    &__greetings,
+    &__name {
+        font-size: 3rem;
+        font-weight: bold;
+        line-height: 1.13;
+    }
+
+    &__greetings {
+        color: var(--color-gray3);
+    }
+
+    &__info-wrapper {
+        display: flex;
+        position: relative;
+        flex-grow: 1;
+        flex-wrap: wrap;
+        align-items: baseline;
+
+        margin-left: 1rem;
+    }
+
+    &__info {
+        display: flex;
+        align-items: flex-end;
+        width: 100%;
+    }
+
+    &__note {
+        position: absolute;
+        top: calc(100% + 0.2em);
+
+        font-size: 1.2rem;
+
+        color: var(--color-gray2);
+    }
+
+    &__name {
+    }
+
+    &__action {
+        flex-shrink: 0;
+        margin-left: auto;
+    }
+
+    &__status-box {
+        position: relative;
+
+        flex-grow: 1;
+        width: 100%;
+        margin-top: 1rem;
+        padding: 0.8rem 1.2rem;
+
+        color: var(--color-gray5);
+        background-color: var(--color-gray4);
+
+        overflow-wrap: break-word;
+    }
+
+    &__status-box:after {
+        content: '';
+
+        position: absolute;
+        bottom: 100%;
+        left: 0.7rem;
+
+        width: 0;
+        height: 0;
+        border: 0.7rem solid transparent;
+
+        border-bottom-color: var(--color-gray4);
+    }
+
+    &__status-input {
+        width: 100%;
+        height: 100%;
+        border: none;
+        resize: none;
+
+        font-size: 1.4rem;
+
+        background: transparent;
+    }
+
+    &__status-input:focus {
+        outline: none;
+    }
+
+    &__status-input[contenteditable]:empty:before {
+        content: attr(placeholder);
+        display: block;
+        color: var(--color-gray2);
+    }
+}

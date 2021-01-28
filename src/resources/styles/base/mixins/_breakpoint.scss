@@ -1,0 +1,37 @@
+$breakpoint-projector: 1200px !default;
+$breakpoint-desktop: 1024px !default;
+$breakpoint-tablet: 768px !default;
+$breakpoint-phablet: 576px !default;
+$breakpoint-phone: 320px !default;
+
+$breakpoints: projector, desktop, tablet, phablet, phone;
+
+@mixin breakpoint($point) {
+    @if $point == projector {
+        @media (min-width: $breakpoint-projector) { @content; }
+    }
+    @else if $point == desktop {
+        @media (min-width: $breakpoint-desktop) { @content; }
+    }
+    @else if $point == tablet {
+        @media (min-width: $breakpoint-tablet) { @content; }
+    }
+    @else if $point == phablet {
+        @media (min-width: $breakpoint-phablet) { @content; }
+    }
+    @else if $point == phone {
+        @media (min-width: $breakpoint-phone) { @content; }
+    }
+}
+
+@mixin breakpoint-width($max-width) {
+    @media (max-width: $max-width) { @content; }
+}
+
+@mixin breakpoint-height($max-height) {
+    @media (max-height: $max-height) { @content; }
+}
+
+@mixin breakpoint-width-height($max-width, $max-height) {
+    @media (max-width: $max-width), (max-height: $max-height) { @content; }
+}
